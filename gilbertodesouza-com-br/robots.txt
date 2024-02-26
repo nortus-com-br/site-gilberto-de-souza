@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://gilbertodesouza.com.br/sitemap.xml
+Sitemap:https://gilbertodesouza.com.br/sitemap_1.xml

@@ -1,0 +1,663 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 07:31:24
+* VERSION: 4.0.2
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.3.27                                |7.3.27
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.3.27 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.46 (Unix) OpenSSL/1.1.1f
+DOC ROOT____________: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+LOG FILE 644________: false
+REQUEST URL_________: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br/dup-installer/main.installer.php"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+If start step 0 /home/gilbertodesouza/webapps/gilbertodesouza-com-br
+INSTALLER INFO
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+URL_NEW_____________: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+********************************************************************************
+
+--------------------------------------
+ARCHIVE INFO
+--------------------------------------
+ARCHIVE NAME________: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br/20210320_gilbertodesouza_[HASH]_20210320192656_archive.daf"
+ARCHIVE SIZE________: 180.21MB
+CREATED_____________: 2021-03-20 19:26:56
+WP VERSION__________: 5.4.4
+DUP VERSION_________: 4.0.2
+DB VERSION__________: 5.7.33
+DB FILE SIZE________: 40.2MB
+DB TABLES___________: 14
+DB ROWS_____________: 6636
+URL HOME____________: https://gilbertodesouza-com-br.cloubox.com.br
+URL CORE____________: https://gilbertodesouza-com-br.cloubox.com.br
+URL CONTENT_________: https://gilbertodesouza-com-br.cloubox.com.br/wp-content
+URL UPLOAD__________: https://gilbertodesouza-com-br.cloubox.com.br/wp-content/uploads
+URL PLUGINS_________: https://gilbertodesouza-com-br.cloubox.com.br/wp-content/plugins
+URL MU PLUGINS______: https://gilbertodesouza-com-br.cloubox.com.br/wp-content/mu-plugins
+URL THEMES__________: https://gilbertodesouza-com-br.cloubox.com.br/wp-content/themes
+PATH HOME___________: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public
+PATH ABS____________: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public
+PATH WPCONFIG_______: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public
+PATH WPCONTENT______: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public/wp-content
+PATH UPLOADS________: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public/wp-content/uploads
+PATH PLUGINS________: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public/wp-content/plugins
+PATH MUPLUGINS______: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public/wp-content/mu-plugins
+PATH THEMES_________: /srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public/wp-content/themes
+***  PLUGINS ***
+PLUGIN [SLUG:advanced-access-manager/aam.php                   ][ON:true ]  Advanced Access Manager
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:happy-elementor-addons/plugin.php                 ][ON:true ]  Happy Elementor Addons
+PLUGIN [SLUG:happy-elementor-addons-pro/happy-elementors-addons-pro.php][ON:true ]  Happy Elementor Addons Pro
+PLUGIN [SLUG:hide-admin-bar-from-front-end/hide-admin-bar-from-front-end.php][ON:true ]  Hide Admin Bar From Front End
+PLUGIN [SLUG:mask-form-elementor/index.php                     ][ON:true ]  Mask Form Elementor
+PLUGIN [SLUG:mobile-address-bar-changer/mobile-address-bar-changer.php][ON:true ]  Mobile Address Bar Changer
+PLUGIN [SLUG:mousewheel-smooth-scroll/mousewheel-smooth-scroll.php][ON:true ]  MouseWheel Smooth Scroll
+PLUGIN [SLUG:powerpack-elements/powerpack-elements.php         ][ON:true ]  PowerPack Pro for Elementor
+PLUGIN [SLUG:wp-super-cache/wp-cache.php                       ][ON:true ]  WP Super Cache
+PLUGIN [SLUG:advanced-cache.php                                ][ON:false]  advanced-cache.php
+--------------------------------------
+--------------------------------------
+
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00015]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+LOG-TIME[/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/ctrls/ctrl.base.php:236][DELTA:   0.01044]  MESSAGE:END RENDER PAGE
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/classes/config/class.boot.php|LINE:161]
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+STEP ACTION: "on-validate"
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+LOG-TIME[/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/ctrls/ctrl.base.php:236][DELTA:   0.00937]  MESSAGE:END RENDER PAGE
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/classes/config/class.boot.php|LINE:161]
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery URL" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery URL" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+LOG-TIME[DELTA:   0.05840]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/classes/validation/tests/class.validation.test.timeout.php|LINE:23]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Sufficient Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00041]  MESSAGE:TEST "Sufficient Disk Space" RESULT: good
+
+START TEST "Permissions" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.04172]  MESSAGE:TEST "Permissions" RESULT: passed
+
+START TEST "Configs files permissions" [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00023]  MESSAGE:TEST "Configs files permissions" RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host name check" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Host name check" RESULT: passed
+
+START TEST "Verify Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00266]  MESSAGE:TEST "Verify Host Connection" RESULT: passed
+
+START TEST "Database version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00187]  MESSAGE:TEST "Database version" RESULT: soft warning
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Confirm Database Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Confirm Database Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Test User Table Privileges" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.03368]  MESSAGE:TEST "Test User Table Privileges" RESULT: passed
+
+START TEST "Test SHOW VARIABLES query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00076]  MESSAGE:TEST "Test SHOW VARIABLES query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Default Character set and Collation support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00147]  MESSAGE:TEST "Default Character set and Collation support" RESULT: passed
+
+START TEST "Check Character set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00015]  MESSAGE:TEST "Check Character set and  Collation Capability" RESULT: passed
+
+START TEST "Check GTID mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00016]  MESSAGE:TEST "Check GTID mode" RESULT: passed
+
+START TEST "Table Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00082]  MESSAGE:TEST "Table Case Sensitivity" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [extract] START
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 07:31:50
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+RESTORE BACKUP MODE_: false
+HOME URL NEW________: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+SITE URL NEW________: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+CONTENT URL NEW_____: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br/wp-content"
+UPLOAD URL NEW______: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br/wp-content/uploads"
+PLUGINS URL NEW_____: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+SITE PATH NEW_______: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+CONTENT PATH NEW____: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-content"
+UPLOAD PATH NEW_____: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "duparchive"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+PATHS MAPPING_______: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+--------------------------------------
+EXTRACTION FILTERS
+FILTER FOLDER: "dup-installer"
+FILTER FILE  : "20210320_gilbertodesouza_[HASH]_20210320192656_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: DUP ARCHIVE >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+DAWN START EXPAND
+DUP EXPAND OFFSET 30
+DUP EXPAND DONE
+
+
+EXTRACTION: DUP ARCHIVE >>> DONE
+
+EXTRACTION COMPLETE @ 07:31:54 - RUNTIME: 4.8003 sec. - Files processed: 7,440 of 7,440
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [dbinstall] START
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 07:31:55
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+KEEP USERS__________: 0
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+NON-BREAKING SPACES_: false
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_entities]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_packages]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     239] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    6792] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:    1382] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_term_relationships"___________________________[ROWS:     304] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_termmeta"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_usermeta"_____________________________________[ROWS:      63] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_users]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.18 -- Build Server: 5.7.33
+FILE SIZE:	dup-database__[HASH].sql (39.29MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+CLEANUP ROUTINE START
+Starting Cleanup Routine...
+CLEANUP ROUTINE COMPLETE
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	274
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     0]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:     5]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   210]
+TABLE "wp_postmeta"_____________________________________[ROWS:  6792]
+TABLE "wp_posts"________________________________________[ROWS:  1382]
+TABLE "wp_term_relationships"___________________________[ROWS:   304]
+TABLE "wp_term_taxonomy"________________________________[ROWS:    13]
+TABLE "wp_termmeta"_____________________________________[ROWS:     0]
+TABLE "wp_terms"________________________________________[ROWS:    13]
+TABLE "wp_usermeta"_____________________________________[ROWS:    63]
+TABLE "wp_users"________________________________________[ROWS:     3]
+
+DATABASE CACHE/TRANSITIENT [ROWS:    29]
+
+INSERT DATA RUNTIME: 2.4039 sec.
+STEP-2 COMPLETE @ 07:31:57 - RUNTIME: 2.4040 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [init][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 07:31:57
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+blogname______________: "Gilberto de Souza"
+url_old_______________: "https://gilbertodesouza-com-br.cloubox.com.br"
+url_new_______________: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+siteurl_______________: "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+path_new______________: "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+path_old______________: "/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public"
+replace_mode__________: "legacy"
+empty_schedule_storage: true
+mode_chunking_________: 2
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+cross_search__________: true
+postguid______________: false
+fullsearch____________: false
+replaceMail___________: false
+maxSerializeStrlen____: 4000000
+auth_keys_and_salts___: false
+mu_replace____________: Array
+(
+)
+
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-content/plugins/wp-super-cache/], [inWpConfig = 1]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 256M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 4998000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_pro_entities"______________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   210][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  6792][PG:   7][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][6]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:  1382][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][1]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   304][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_relationships][0]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    63][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/srv/users/gilbertodesouza/apps/gilbertodesouza-com-br/public" => "/home/gilbertodesouza/webapps/gilbertodesouza-com-br"
+	SEARCH[urlnd]  2:"https://gilbertodesouza-com-br.cloubox.com.br" ===> "https://gilbertodesouza-com-br.cloud1.cloubox.com.br"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+--------------------------------------
+SCANNED:	Tables:14 	|	 Rows:8785 	|	 Cells:61133 
+UPDATED:	Tables:5 	|	 Rows:1939 	|	 Cells:2488 
+ERRORS:		0 
+RUNTIME:	5.317900 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-config.php
+New htaccess file created:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""gilbertodesouza_wp""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE true
+	WP CONFIG UPDATE WPCACHEHOME "/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-content/plugins/wp-super-cache/"
+	WP CONFIG UPDATE WP_DEBUG false
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+- Removed '0' schedule storage items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 07:32:03 - RUNTIME: 5.7778 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/ctrls/ctrl.base.php:236][DELTA:   0.02412]  MESSAGE:END RENDER PAGE
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/dup-installer/classes/config/class.boot.php|LINE:161]

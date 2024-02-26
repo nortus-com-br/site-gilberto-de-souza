@@ -1,0 +1,35 @@
+[2023-05-24 14:32:33] [LOG] O plugin foi ativado
+[2023-05-24 14:34:16] [LOG] Criando backup
+[2023-05-24 14:34:16] [LOG] Encontrado8281 arquivos para fazer o backup.
+[2023-05-24 14:35:12] [ERROR] Desligado
+[2023-05-24 14:35:12] [ERROR] Array
+(
+    [type] => 1
+    [message] => Maximum execution time of 30 seconds exceeded
+    [file] => /home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-admin/includes/class-pclzip.php
+    [line] => 2700
+)
+
+[2023-05-24 14:35:12] [ERROR] Ocorreu um erro durante o backup
+[2023-05-24 14:35:12] [ERROR] Mensagem de erro:Maximum execution time of 30 seconds exceeded
+[2023-05-24 14:35:12] [ERROR] Arquivo/linha de erro:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-admin/includes/class-pclzip.php|2700
+[2023-05-24 14:35:12] [LOG] Due to fatal error backup handled correctly (closed and removed).
+[2023-05-24 14:35:35] [LOG] Criando backup
+[2023-05-24 14:35:35] [LOG] Encontrado8281 arquivos para fazer o backup.
+[2023-05-24 14:36:15] [ERROR] Desligado
+[2023-05-24 14:36:15] [ERROR] Array
+(
+    [type] => 1
+    [message] => Maximum execution time of 30 seconds exceeded
+    [file] => /home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-admin/includes/class-pclzip.php
+    [line] => 2700
+)
+
+[2023-05-24 14:36:15] [ERROR] Ocorreu um erro durante o backup
+[2023-05-24 14:36:15] [ERROR] Mensagem de erro:Maximum execution time of 30 seconds exceeded
+[2023-05-24 14:36:15] [ERROR] Arquivo/linha de erro:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/wp-admin/includes/class-pclzip.php|2700
+[2023-05-24 14:36:15] [LOG] Due to fatal error backup handled correctly (closed and removed).
+[2023-05-24 14:37:37] [LOG] Criando backup
+[2023-05-24 14:37:37] [LOG] Encontrado0 arquivos para fazer o backup.
+[2023-05-24 14:37:55] [LOG] Novo backup criado e seu nome é:BM_Backup_2023-05-24_14_37_37_Rl9fJbNoPwr416UX.zip
+[2023-05-24 14:40:01] [LOG] O plugin foi desativado

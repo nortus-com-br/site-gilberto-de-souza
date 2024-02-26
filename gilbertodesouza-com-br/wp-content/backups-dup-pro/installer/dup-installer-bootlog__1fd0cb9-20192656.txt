@@ -1,0 +1,27 @@
+[Mar 20 19:31:23] 
+[Mar 20 19:31:23] ==DUPLICATOR INSTALLER BOOTSTRAP v4.0.2==
+[Mar 20 19:31:23] ----------------------------------------------------
+[Mar 20 19:31:23] Installer bootstrap start
+[Mar 20 19:31:23] Ready to extract the installer
+[Mar 20 19:31:23] Checking permission of destination folder
+[Mar 20 19:31:24] SAPI: FPM
+[Mar 20 19:31:24] Server: Apache
+[Mar 20 19:31:24] Set permissions of dup-installer<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/api<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/assets<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/classes<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/ctrls<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/favicon<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/lib<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/src<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/templates<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/dup-database__[HASH].sql<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/index.php<br/>
+[Mar 20 19:31:24] Set permissions of dup-installer/main.installer.php<br/>
+[Mar 20 19:31:24] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://gilbertodesouza-com-br.cloud1.cloubox.com.br/dup-installer/main.installer.php
+[Mar 20 19:31:24] [PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/home/gilbertodesouza/webapps/gilbertodesouza-com-br/installer.php|LINE:41]
